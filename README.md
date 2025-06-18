@@ -1,2 +1,2 @@
 # Folia-plugin
-Known Folia Plugin Jars
+Known Working Folia Plugin Jars
